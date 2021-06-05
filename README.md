@@ -10,4 +10,4 @@ To view the data visualization I created, on the lives lost globally due to the 
 A data visualization on the global vaccinations will be available soon!
 
 ## Data Cleaning Project
-This is a data cleaning exercise I made on A Nashville Housing Dataset using SQL
+This is a data cleaning exercise I made on a Nashville Housing Dataset using SQL
