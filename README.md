@@ -11,3 +11,6 @@ A data visualization on the global vaccinations will be available soon!
 
 ## Data Cleaning Project
 This is a data cleaning exercise I made on a Nashville Housing Dataset using SQL
+
+## Data Correlation with Python
+In this project, I used python to determine the correlation between various variables that contribute to the success of a movie production
