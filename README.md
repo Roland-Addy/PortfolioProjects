@@ -14,3 +14,8 @@ This is a data cleaning exercise I made on a Nashville Housing Dataset using SQL
 
 ## Data Correlation with Python
 In this project, I used python to determine the correlation between various variables that contribute to the success of a movie production
+
+## Data Visualization Using Plotly and Dash in Python
+Created a dashboard based on the concept of demonstrating US Domestic Airline Flights Performance and Yearly average flight delay statistics from 2005 to 2020. 
+
+
