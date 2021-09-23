@@ -16,6 +16,9 @@ This is a data cleaning exercise I made on a Nashville Housing Dataset using SQL
 In this project, I used python to determine the correlation between various variables that contribute to the success of a movie production
 
 ## Data Visualization Using Plotly and Dash in Python
-Created a dashboard based on the concept of demonstrating US Domestic Airline Flights Performance and Yearly average flight delay statistics from 2005 to 2020. 
+Created a dashboard based on the concept of demonstrating US Domestic Airline Flights Performance and Yearly average flight delay statistics from 2005 to 2020.
+
+## AB Testing For An Ad Campaign
+Using hypothesis testing to advise a digital marketing agency that designed a new ad for their client on whether they should go for the new ad or not. 
 
 
